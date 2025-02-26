@@ -35,6 +35,7 @@ The objective which is to clean and prepare the data from the dummy campaign.
 The content include 3 main-topics:
 A. Overview data
 > 1. Check & Handling the **Null/ Missing/ Duplicate** value
+> 2. Check the basic statistics to better get understanding the dataset
 
 B. Convert & Standardize the data type
 > 1. Datetime format
@@ -43,6 +44,7 @@ B. Convert & Standardize the data type
 
 C. Extract the `AdditionalInfo` column
 > 1. Extract & create the 3 new columns including `PaymentMethod` , `Discount` , `LoyaltyPoints`
+> 2. Update the consistent format
 
 D. Export to excel file
 
