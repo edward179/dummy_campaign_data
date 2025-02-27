@@ -33,6 +33,7 @@ The objective which is to clean and prepare the data from the dummy campaign.
 
 ## Approach
 The content include 3 main-topics:
+
 A. Overview data
 > 1. Check & Handling the **Null/ Missing/ Duplicate** value
 > 2. Check the basic statistics to better get understanding the dataset
